@@ -115,6 +115,7 @@ linux-firmware
 linux414
 linux414-virtualbox-guest-modules
 logrotate
+lolcat
 lsb-release
 lvm2
 m4
@@ -149,6 +150,7 @@ mousepad
 mtpfs
 mugshot
 nano
+neofetch
 network-manager-applet
 networkmanager
 networkmanager-openconnect
