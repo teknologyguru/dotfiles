@@ -2,7 +2,10 @@
     "telemetry.enableTelemetry": false,
     "telemetry.enableCrashReporter": false,
     "editor.fontSize": 12,
-    "window.zoomLevel": -0.5,
     "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}VSCode",
-    "window.titleBarStyle": "custom"
+    "window.titleBarStyle": "custom",
+    "editor.renderWhitespace": "boundary",
+    "git.autofetch": true,
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": -1
 }
