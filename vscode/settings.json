@@ -5,6 +5,7 @@
     "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}VSCode",
     "window.titleBarStyle": "custom",
     "editor.renderWhitespace": "boundary",
+    "git.enableSmartCommit": true,
     "git.autofetch": true,
     "workbench.iconTheme": "vscode-icons",
     "window.zoomLevel": -1,
