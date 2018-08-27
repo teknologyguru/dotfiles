@@ -7,5 +7,6 @@
     "editor.renderWhitespace": "boundary",
     "git.autofetch": true,
     "workbench.iconTheme": "vscode-icons",
-    "window.zoomLevel": -1
+    "window.zoomLevel": -1,
+    "terminal.integrated.fontSize": 12
 }
