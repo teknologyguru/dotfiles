@@ -100,4 +100,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ll="ls -l"
-
+alias slvpn="sudo openconnect -b --user= https://remote.com"
+alias slvpnoff="sudo pkill -SIGINT openconnect"
