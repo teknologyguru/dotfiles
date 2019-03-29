@@ -19,3 +19,6 @@ if ($host.UI.RawUI.WindowTitle -match "Administrator") {
     Clear-Host;
     Write-Output "`n   Running as Administrator`n"
 }
+
+function sudothething {Start-Process PowerShell /NoLogo –Verb RunAs}
+set-alias -Name sudo -Value sudothething
