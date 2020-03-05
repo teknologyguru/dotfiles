@@ -9,5 +9,6 @@
     "git.autofetch": true,
     "workbench.iconTheme": "vscode-icons",
     "window.zoomLevel": -1,
-    "terminal.integrated.fontSize": 12
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "Cascadia Mono PL"
 }
